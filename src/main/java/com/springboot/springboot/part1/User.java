@@ -1,4 +1,5 @@
 package com.springboot.springboot.part1;
+//user model
 public class User {
     private long Id;
     private String name;

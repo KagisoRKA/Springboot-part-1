@@ -2,6 +2,7 @@ package com.springboot.springboot.part1;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class UserServiceImpl implements UserService {
+    //dependency injection
     @Autowired
     private FakeRepo fakeRepo;
     @Override
