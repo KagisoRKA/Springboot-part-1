@@ -1,4 +1,4 @@
-package com.springboot.springboot.part1;
+package com.springboot.springboot.part1.Model;
 //user model
 public class User {
     private long Id;

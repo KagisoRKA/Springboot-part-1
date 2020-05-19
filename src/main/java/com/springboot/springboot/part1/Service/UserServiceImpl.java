@@ -1,4 +1,5 @@
-package com.springboot.springboot.part1;
+package com.springboot.springboot.part1.Service;
+import com.springboot.springboot.part1.DAO.FakeRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class UserServiceImpl implements UserService {

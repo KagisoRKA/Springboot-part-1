@@ -1,4 +1,5 @@
-package com.springboot.springboot.part1;
+package com.springboot.springboot.part1.DAO;
+import com.springboot.springboot.part1.Model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import java.util.ArrayList;
